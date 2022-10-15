@@ -1,5 +1,4 @@
-# calculator
-## calculadora simples kkk
+# calculadora simples kkk
 
 caso alguem queira ela para usar ou estilizar ela, ta ai
 
